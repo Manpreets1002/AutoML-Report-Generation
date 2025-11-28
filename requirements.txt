@@ -1,0 +1,10 @@
+streamlit # for frontend
+pandas # for reading dataframes
+scikit-learn # models
+plotly # for graphs
+xgboost # extra model
+catboost # one more model
+langchain # Langchain Project Track
+langchain-core # for Prompts
+langchain-community # for 
+langchain-groq # for chatbot
